@@ -17,7 +17,7 @@ Congrats ! We're done here for now.
 
 After creating your directory, open your terminal.
 
-- let's start by telling **_Git_** that we want this repo to become a repository
+- let's start by telling **_Git_** that we want this folder to become a repository
 
     in your terminal use the command:
 
